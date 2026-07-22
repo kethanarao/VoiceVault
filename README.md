@@ -55,11 +55,9 @@
 
 ## 🎥 Demo Video
 
-> **Watch VoiceVault in action:** Upload an audio or video file, generate a local transcription, and use a local LLM to create an AI-powered summary — all without sending your data to the cloud.
+> **Watch VoiceVault in action:** 
 
-**Demo Video:** [Watch the VoiceVault Demo](https://github.com/kethanarao/VoiceVault/assets/projectdemo.mp4)
-
-> 💡 **Note:** The demo video should be uploaded to a GitHub Release or hosted on YouTube/Loom. A direct `.mp4` path inside a GitHub repository may result in an "Access Denied" error.
+**Demo Video:** [Watch the VoiceVault Demo](https://github.com/kethanarao/VoiceVault/blob/main/assets/projectdemo.mp4)
 
 ---
 
