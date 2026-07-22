@@ -39,7 +39,7 @@
 
 ![VoiceVault Main Interface](assets/Screenshot1.png)
 
-### 2. Transcription Results
+### 2. Full Application View
 
 ![VoiceVault Transcription Results](assets/Screenshot2.png)
 
@@ -47,7 +47,7 @@
 
 ![VoiceVault AI Summary](assets/Screenshot3.png)
 
-### 4. Full Application View
+### 4. Transcription Results
 
 ![VoiceVault Full View](assets/Screenshot4.png)
 
@@ -284,22 +284,6 @@ Generate transcripts and summaries from recorded episodes.
 
 ### 🏢 Teams
 Create private meeting notes without sending recordings to third-party cloud services.
-
----
-
-## 🌟 Future Improvements
-
-- [ ] Speaker identification / diarization
-- [ ] Real-time microphone transcription
-- [ ] Drag-and-drop file uploads
-- [ ] Export transcripts as PDF, TXT, and DOCX
-- [ ] Search across previous transcripts
-- [ ] Automatic meeting title generation
-- [ ] Support for more local LLMs
-- [ ] GPU acceleration
-- [ ] Dark mode
-- [ ] Docker deployment
-- [ ] Multi-user support
 
 ---
 
