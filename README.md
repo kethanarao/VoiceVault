@@ -4,7 +4,7 @@
 
 *Turn hours of audio into actionable insights — completely offline and private.*
 
-![VoiceVault Banner](assests/Screenshot1.png)
+![VoiceVault Banner](assets/Screenshot1.png)
 
 > A beautiful, fast, and fully local AI tool that transcribes audio/video files and generates intelligent summaries using Whisper + Ollama.
 
@@ -37,19 +37,19 @@
 
 ### 1. Main Interface & Upload
 
-![VoiceVault Main Interface](assests/Screenshot1.png)
+![VoiceVault Main Interface](assets/Screenshot1.png)
 
 ### 2. Transcription Results
 
-![VoiceVault Transcription Results](assests/Screenshot2.png)
+![VoiceVault Transcription Results](assets/Screenshot2.png)
 
 ### 3. AI Summary View
 
-![VoiceVault AI Summary](assests/Screenshot3.png)
+![VoiceVault AI Summary](assets/Screenshot3.png)
 
 ### 4. Full Application View
 
-![VoiceVault Full View](assests/Screenshot4.png)
+![VoiceVault Full View](assets/Screenshot4.png)
 
 ---
 
