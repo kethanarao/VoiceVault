@@ -57,7 +57,7 @@
 
 > **Watch VoiceVault in action:** 
 
-**Demo Video:** [Watch the VoiceVault Demo](https://github.com/kethanarao/VoiceVault/blob/main/assets/projectdemo.mp4)
+**Demo Video:** [Watch the VoiceVault Demo](https://youtu.be/orM5tGaHDZM)
 
 ---
 
